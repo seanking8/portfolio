@@ -8,11 +8,11 @@ const Hero = (props) => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Welcome to <br />
-        My Personal Portfolio
+        Hi,<br />
+        I'm Seán
       </SectionTitle>
       <SectionText main center>
-        The purpose of this portfolio is to present my sample text sample text sample text etc etc etc... *What I'm offering*
+        A passionate full-stack developer based in Vancouver, Canada
       </SectionText>
       <Button onClick={() => window.location = 'https://letterboxd.com'}>Learn More</Button>
     </LeftSection>

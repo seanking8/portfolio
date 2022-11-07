@@ -16,7 +16,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            React.js
+            React, Angular and Next.js
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -36,7 +36,7 @@ const Technologies = () =>  (
           <ListTitle>UI/UX</ListTitle>
           <ListParagraph>
             Experience with <br />
-            tools like Figma
+            tools like the Adobe Suite
           </ListParagraph>
         </ListContainer>
       </ListItem>
