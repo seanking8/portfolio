@@ -1,5 +1,6 @@
 import React from 'react';
-import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from 'react-icons/ai';
+import { AiFillGithub, AiFillLinkedin } from 'react-icons/ai';
+import { FaItchIo } from 'react-icons/fa';
 
 import { SocialIcons } from '../Header/HeaderStyles';
 import { CompanyContainer, FooterWrapper, LinkColumn, LinkItem, LinkList, LinkTitle, Slogan, SocialContainer, SocialIconsContainer } from './FooterStyles';
@@ -24,6 +25,9 @@ const Footer = () => {
         <SocialContainer>
           <SocialIcons href="https://github.com/seanking8">
             <AiFillGithub size="3rem" />
+          </SocialIcons>
+          <SocialIcons href="https://seankingdev.itch.io/">
+            <FaItchIo size="3rem" />
           </SocialIcons>
           <SocialIcons href="https://linkedin.com/in/seánking">
             <AiFillLinkedin size="3rem" />
