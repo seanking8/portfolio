@@ -12,7 +12,7 @@ const Hero = (props) => (
         I'm Seán
       </SectionTitle>
       <SectionText main center>
-        A passionate full-stack developer based in Vancouver, Canada
+        A passionate full-stack and game developer based in Vancouver, Canada
       </SectionText>
       <Button onClick={() => window.location = 'https://letterboxd.com'}>Learn More</Button>
     </LeftSection>

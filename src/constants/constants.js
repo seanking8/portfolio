@@ -66,9 +66,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2018, text: 'Started my journey', },
-  { year: 2019, text: 'Worked as a freelance developer', },
-  { year: 2020, text: 'Founded JavaScript Mastery', },
-  { year: 2021, text: 'Shared my projects with the world', },
-  { year: 2022, text: 'Started my own platform', },
+  { year: 2018, text: 'Started my journey with simple HTML/CSS pages and Java apps', },
+  { year: 2019, text: 'Added JS functionality. Delved into SQL and DB management', },
+  { year: 2020, text: 'Began my game dev journey using Unity and C#. Designed more appealing webpages', },
+  { year: 2021, text: 'Implemented MERN stack and RESTful APIs to create polished full-stack projects', },
+  { year: 2022, text: 'Launched 3 PC games for public download. Used Selenium and WebDriver for automated testing', },
 ];
