@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id='about'>
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I started, how, passions etc. .......... ..... ...............
+      Having lived in Ireland all my life, I've just relocated to Vancouver to pursue my dream of building things.<br />I discovered this ambition at 18 when I started messing around with basic Java. Ever since then, I've found that once I have an idea of how something should work/look, I won't stop until that vision is realised.<br />I am always looking to learn. Currently, I'm absorbed in an introductory Python course.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
