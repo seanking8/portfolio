@@ -1,17 +1,16 @@
 import Link from 'next/link';
 import React from 'react';
 import { AiFillGithub, AiFillLinkedin } from 'react-icons/ai';
-import { FaItchIo } from 'react-icons/fa';
+import { FaItchIo, FaCrown } from 'react-icons/fa';
 import { DiCssdeck } from 'react-icons/di';
-
 import { Container, Div1, Div2, Div3, NavLink, SocialIcons, Span } from './HeaderStyles';
 
 const Header = () => (
   <Container>
     <Div1>
       <Link href="/">
-        <a style={{ display: "flex", alignItems: "center", color: 'white', marginBottom: '20' }}>
-          <DiCssdeck size="3rem" /> <Span>Seán King</Span>
+        <a style={{ display: "flex", alignItems: "center", color: 'white', marginBottom: '18px' }}>
+          <FaCrown size="3rem" /> <Span>Seán King</Span>
         </a>
       </Link>
     </Div1>
